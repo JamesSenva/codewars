@@ -2,13 +2,13 @@
 
 // console.log('hello') 
 
-// NAME OF THE KATA
-// URL 
+// NAME OF THE KATA : 
+// URL : 
 
 
 /* 
 
-INSTRUCTIONS 
+INSTRUCTIONS :
 
 
 */
