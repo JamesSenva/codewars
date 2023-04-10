@@ -32,5 +32,5 @@ function addBinary(a,b) {
 
 
 // SAMPLE TESTS
-addBinary(1,2);
-addBinary(1,4);
+addBinary(1,2); // 11
+addBinary(1,4); // 101
